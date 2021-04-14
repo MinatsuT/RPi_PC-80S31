@@ -46,7 +46,7 @@ $ make
 Prepare a system disk image file in d88 format and run with the following command.
 You can specify up to two disk image files.
 ```
-USAGE: sudo ./pc80s31 system.d88
+$ sudo ./pc80s31 system.d88
 ```
 
 If you specify an empty (0 byte) image file, it will be inserted as an unformatted disk.
