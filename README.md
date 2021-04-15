@@ -1,7 +1,7 @@
 # Raspberry Pi FDD
 Raspberry Pi を NEC PC-8031-2W/PC-80S31 のようなインテリジェントタイプのFDDユニットにします。
 d88形式の2D FDDイメージに対応しています。2ドライブです。  
-注：FDDユニット側のCPUやROMには対応していません。
+注：FDDユニット側のCPUやメモリには対応していません。
 
 ## 必要なハードウェア
 - Raspberry Pi 4 (他のRaspberry Piでも動くと思いますが、試していません。)
