@@ -1,11 +1,11 @@
-# Raspberry Pi FDD
+# Raspberry Pi を用いた PC-80S31 フロッピーディスクドライブエミュレータ
 Raspberry Pi を NEC PC-8031-2W/PC-80S31 のようなインテリジェントタイプのFDDユニットにします。
 d88形式の2D FDDイメージに対応しています。2ドライブです。  
 注：FDDユニット側のCPUやメモリには対応していません。
 
 ## 必要なハードウェア
 - Raspberry Pi 4 (他のRaspberry Piでも動くと思いますが、試していません。)
-- PC-8001/PC-8801/PC-9801シリーズの320KBインテリジェントタイプFDD用コネクタから信号線を取り出してRaspberry Piの各GPIOピンに繋ぐケーブル。
+- PC-8001/PC-8801/PC-9801シリーズの320KBインテリジェントタイプFDD用コネクタから信号線を取り出してRaspberry Piの各GPIOピンに繋ぐ自作ケーブル。
 
 ## ピンアサイン
 ```
