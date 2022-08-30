@@ -1,4 +1,4 @@
-# Raspberry Pi FDD
+# PC-80S31 floppy disk drive emulator using Raspberry Pi
 Make your Raspberry Pi an intelligent type FDD unit like the NEC PC-8031-2W/PC-80S31.
 It supports 2D FDD images in d88 format. 2 drives.  
 Note: The CPU and memory on the FDD unit side are not supported.
